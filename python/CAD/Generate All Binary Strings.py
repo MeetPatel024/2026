@@ -26,7 +26,7 @@ class Solution:
         if index>=len(numbers):
             result.append("".join(numbers))
             return
-        numbers[index]="0"  
+        numbers[index]="0"   
         self.s(index+1,True,numbers,result)
         if flag==True:
             numbers[index]="1"
