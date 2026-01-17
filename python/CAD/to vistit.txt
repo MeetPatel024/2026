@@ -4,3 +4,5 @@ leetcode 40 (76)
 
 #skipped
 leetcode 216 (78)
+leetcode 51 (80) N queens problem
+gfg (51) rat in a maze
